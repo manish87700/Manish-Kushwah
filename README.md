@@ -1,7 +1,7 @@
 ![logo](https://github.com/manish87700/Manish-Kushwah/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Manish Kushwah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523ogctl74bqac78w37bvs0bkoc75teq67snst7fu3&ep=v1_gifs_search&rid=200w.gif&ct=g](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)">
+<img align="right" alt="coding" width="400" src="https://github.com/manish87700/Manish-Kushwah/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish87700&label=Profile%20views&color=0e75b6&style=flat" alt="manish87700" /> </p>
 
